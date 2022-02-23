@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @heyitsbraden
+- 👀 I’m interested in coding small, fun programs in C++
+- 🌱 I’m currently learning how to code in C++
+- 💞️ I’m looking to collaborate on nothing atm
+- 📫 You can reach me at heyitsbraden.rgb@hotmail.com
