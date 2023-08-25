@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heyitsbraden
-- 👀 I’m interested in coding small, fun programs in C++, as well as creating discord bots in node.js
-- 🌱 I’m currently learning how to code in C++
+- 👀 I’m interested in coding small, fun programs in Python and C++, as well as creating discord bots in node.js
+- 🌱 I’m currently learning how to code in Python and C++
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 You can reach me at heyitsbraden.rgb@hotmail.com
